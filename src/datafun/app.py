@@ -339,6 +339,8 @@ def main() -> None:
     LOG.info("===================================")
     LOG.info("END main() - Executed successfully!")
     LOG.info("===================================")
+    LOG.info("just kidding, that was only a test")
+    LOG.info('no really, this is the end')
 
 
 # === CONDITIONAL EXECUTION GUARD ===
